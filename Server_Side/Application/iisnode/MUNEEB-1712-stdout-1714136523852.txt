@@ -1,0 +1,1 @@
+Server is listening on 192.168.100.2:\\.\pipe\11317011-ca4f-449a-83f2-a0260d1b0e09
